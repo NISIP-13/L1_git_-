@@ -1,0 +1,7 @@
+<script>start("/Users/shuba.n.a/SHUBA/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".gitignore",".gitignore",0,118,"118 B",1741850592,"13.03.2025, 10:23:12");</script>
+<script>addRow("config_template.py","config_template.py",0,0,"0 B",1741847986,"13.03.2025, 09:39:46");</script>
+<script>addRow("config.py","config.py",0,0,"0 B",1741847971,"13.03.2025, 09:39:31");</script>
+<script>addRow("main.py","main.py",0,0,"0 B",1741847952,"13.03.2025, 09:39:12");</script>
+<script>addRow("README.md","README.md",0,433,"433 B",1741850404,"13.03.2025, 10:20:04");</script>
